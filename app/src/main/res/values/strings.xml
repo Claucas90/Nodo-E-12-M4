@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ejercicio12</string>
+    <string name="userTxt">Como te llamas?</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btneExit">Salir</string>
+    <string name="queQuieres">Que vas a comer hoy?</string>
+    <string name="sushi">Sushi Premium</string>
+    <string name="pastas">Pastas italianas</string>
+    <string name="postres">Postres para acompañar</string>
+    <string name="pedir">Ver Más</string>
+    <string name="ratingBarDescription">Valoración del producto</string>
+    <string name="btnVolver">Volver</string>
+    <string name="valoraciones">Lo que opinan nuestros clientes</string>
+    <string name="TiempoEntrega">Tiempo de Entrega:</string>
+    <string name="HorarioAtencion">Hoario de Atención</string>
+
+    <string name="Direccion">Direccion</string>
+
+
+</resources>
